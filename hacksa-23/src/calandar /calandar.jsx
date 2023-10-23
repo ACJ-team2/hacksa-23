@@ -1,10 +1,11 @@
-function calander() {
-    return (
-        <div className="">
+import "./calandar.css";
 
-        </div>
-     
-    )
-  }
-  
-  export default calander
+function Calendar() {
+  return (
+    <div className="calendar">
+      <p>hello</p>
+    </div>
+  );
+}
+
+export default Calendar;
