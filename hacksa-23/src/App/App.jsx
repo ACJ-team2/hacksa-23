@@ -5,10 +5,10 @@ import Class from "../class/class";
 function App() {
   return (
     <div className="App">
-      <div>
+      <div className="calendar">
          <Calendar/>
       </div>
-     <div>
+     <div className="class">
        <Class/>
      </div>
     </div>
