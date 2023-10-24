@@ -1,0 +1,42 @@
+.calendar {
+    width: 30vw;
+    height: 90vh;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.assignments {
+    width: 29vw;
+    height: 94vh;
+    position: fixed;
+    margin-top: 6px;
+    text-align: left;
+
+}
+
+#default-checkbox {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.form {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    text-align: left;
+    font-size: 15px;
+    padding: 2px 0px;
+    margin-left: 10px;
+}
+
+.add-btn {
+    width: 27vw;
+    margin-top: 26em;
+
+}
+.add-btn:hover{
+    color:#d1e6dd;
+    
+}

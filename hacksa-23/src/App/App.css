@@ -1,7 +1,9 @@
-.App{
-  display: flex; 
+.App {
+  display: flex;
   flex-direction: row;
+  justify-content: center;
 }
-div{
-  padding: 1rem;
+
+div {
+  padding: 5px;
 }
